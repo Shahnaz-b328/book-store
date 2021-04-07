@@ -1,0 +1,8 @@
+@media (min-width: 992px) {  
+.card-design{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    background-color: burlywood;
+    border-radius: 5px;
+}
+}

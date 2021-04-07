@@ -1,0 +1,19 @@
+.card{
+    margin: 20px 20px;
+    gap: 10px;
+    border: 1px solid lightslategrey;
+    border-radius: 5px;
+    color: blueviolet;
+    font-weight: 700;
+}
+.buy-now{
+    position: relative;
+    margin-left: 150px;
+}
+.text-design{
+    position:absolute;
+    margin-bottom: 30px;
+    color: blue;
+    font-weight: 600;
+    font-size: large;
+}
