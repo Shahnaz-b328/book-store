@@ -5,5 +5,5 @@
 # Technologies
 React,JavaScript, ES6, Bootstrap,HTML,Css,Material-ui,Mongodb, Firebase authentication.
 
-### `Live Preview
+### Live Preview
 https://programming-book-store.web.app/
